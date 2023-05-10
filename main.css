@@ -45,6 +45,7 @@ body {
   background-size: 90px;
   background-repeat: no-repeat;
   transform: skewX(14deg) translateX(-16px);
+  cursor: pointer;
 }
 
 .hero:nth-child(1) .image {
